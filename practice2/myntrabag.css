@@ -1,0 +1,24 @@
+.bag_button{
+    background-color: rgb(125, 220, 125);
+    border: none;
+    padding: 5px 15px ;
+    border-radius: 10px;
+    font-size:20px
+    }
+    .wishlist_button{
+        padding: 5px 40px;
+         border-radius:10px ;
+         border: 2px solid black;
+         font-size: 20px;
+         
+         text-transform: uppercase;
+    
+    }
+    .cart_button{
+        background-color: rgb(125, 220, 125);
+        border: none;
+        padding: 5px 15px ;
+        border-radius: 10px;
+    font-size: 20px;
+
+    }
